@@ -4,23 +4,23 @@
 Este proyecto contiene todos los conocimientos que adquirí en arquitectura de la información e ingeniería de software, trata de una página WEB que sirve para una venta de garaje. Mostraré a grandes rasgos todo lo que aplique en mi proyecto, pero en la documentación se puede ver específicamente de donde saque la información y como lo realice.
 
 Contenidos que aplique y desarrolle:  
-1. Conceptos de Arquitectura de la Información  
-2. Patrones de diseño   
-3. Microservicios  
-4. Contenedores dockers  
-5. Contenedores Kubernetes  
-6. IU WEB con buenas prácticas  
-7. Estructuración de contenido (sistemas: organización, navegación, rotulado y búsqueda)  
-8. Site Map y Wireflows  
-9. Diagramas de: casos de uso, clases, secuencia, bases de datos.  
-10. Estructura de descomposición del trabajo  
-11. Tablas de requerimiento e historias de usuario  
-12. Mockup  
+1) Conceptos de Arquitectura de la Información  
+2) Patrones de diseño   
+3) Microservicios  
+4) Contenedores dockers  
+5) Contenedores Kubernetes  
+6) IU WEB con buenas prácticas  
+7) Estructuración de contenido (sistemas: organización, navegación, rotulado y búsqueda)  
+8) Site Map y Wireflows  
+9) Diagramas de: casos de uso, clases, secuencia, bases de datos.  
+10) Estructura de descomposición del trabajo  
+11) Tablas de requerimiento e historias de usuario  
+12) Mockup  
 
 
 ## Documentación
 
-[Documentación]([https://drive.google.com/file/d/1ubpSz27DoNaqGPfyzziGgOY3RsHzrPLt/view?usp=sharing)
+[Documentación](https://drive.google.com/uc?export=download&id=1ubpSz27DoNaqGPfyzziGgOY3RsHzrPLt)
 
 
 ## 🔗 Link del proyecto
@@ -28,7 +28,7 @@ Contenidos que aplique y desarrolle:
 
 
 
-## Authors
+## Author
 
 - [@JhRA9](https://github.com/JhRA9)
 
