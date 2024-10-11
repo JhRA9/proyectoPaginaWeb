@@ -20,7 +20,7 @@ Contenidos que aplique y desarrolle:
 
 ## Documentación
 
-[Documentación]([https://github.com/user-attachments/files/17347874/Documentacion.YARDSale.pdf](https://github.com/JhRA9/proyectoPaginaWeb/blob/main/DocumentacionYARDSale.pdf))
+[Documentación]([https://drive.google.com/file/d/1ubpSz27DoNaqGPfyzziGgOY3RsHzrPLt/view?usp=sharing))
 
 
 ## 🔗 Link del proyecto
