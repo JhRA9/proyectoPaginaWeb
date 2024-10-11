@@ -25,7 +25,7 @@ const Navbar = () => {
       return (
         <>
           <li className="text-black/60 hidden tablet:hidden laptop:block desktop:block ">
-            proyecto_prueba
+            proyectoPaginaWEB
           </li>
           <li>
             <NavLink
