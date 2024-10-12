@@ -8,26 +8,27 @@ function Home() {
   const { setSearchByTitle, filteredItems } =
     useContext(ShoppingCartContext);
 
-
-  const currentPath = window.location.pathname
+  const currentPath = window.location.pathname;
   let index = currentPath.substring(currentPath.lastIndexOf('/') + 1);
 
-  const renderView = ()=> {
-    if(index){
-      if (index === "men"){
+  const renderView = () => {
+    let itemsToRender = filteredItems;
+
+    if (index) {
+      if (index === "men") {
         index = "men's clothing";
-      } else if (index === "women"){
+      } else if (index === "women") {
         index = "women's clothing";
       }
-      return(
-        filteredItems?.filter(item => item.category === index).map((item)=>(
-          <Card key={item.id} {...item}/>))
-      );
+      itemsToRender = filteredItems?.filter(item => item.category === index);
     }
-    else {
-      return(
-        filteredItems?.map((item) => <Card key={item.id} {...item} />));
-    }
+
+    // Limitar a 16 elementos
+    itemsToRender = itemsToRender?.slice(0, 16);
+
+    return itemsToRender?.map((item) => (
+      <Card key={item.id} {...item} />
+    ));
   }
 
   return (
