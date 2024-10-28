@@ -20,7 +20,7 @@ Contenidos que aplique y desarrolle:
 
 ## Documentación
 
-[Documentación]([https://drive.google.com/uc?export=download&id=1JkSO7NXgBQ52YZO8ieRVVFh_D7InaH8G](https://drive.google.com/uc?export=download&id=1-cjkNvVaNOQQWu755qFzybEceeD2yvaw)
+[Documentación]([https://drive.google.com/uc?export=download&id=1JkSO7NXgBQ52YZO8ieRVVFh_D7InaH8G](https://drive.google.com/uc?export=download&id=1-cjkNvVaNOQQWu755qFzybEceeD2yvaw))
 
 
 ## 🔗 Link del proyecto
