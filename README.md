@@ -24,7 +24,7 @@ Contenidos que aplique y desarrolle:
 
 
 ## 🔗 Link del proyecto
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jhperezr.netlify.app//)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yardsalejhpr.netlify.app/)
 
 
 
